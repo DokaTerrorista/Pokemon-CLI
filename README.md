@@ -1,2 +1,2 @@
 # Pokémon-CLI
-A pokémon game of CLI made in Python.
+A basic Pokémon game of CLI in Python.
